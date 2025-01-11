@@ -93,4 +93,10 @@
     display: flex;
     gap: 5px;
 }
-
+.justification{
+    background-color: #006A50;
+    border-radius: 5px;
+    color: white;
+    border-style: none;
+   padding: 10px;
+}
